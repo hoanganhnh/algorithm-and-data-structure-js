@@ -1,2 +1,2 @@
-# -algorithm-and-data-structure-js
+# algorithm-and-data-structure-js
 Data Structures and Algorithms in Javascript
